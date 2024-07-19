@@ -1,4 +1,4 @@
-# Image Classification with Convolutional Neural Networks
+# RICE LEAF DISEASE RECOGNITION with Convolutional Neural Networks
 
 This project demonstrates image classification using two different Convolutional Neural Networks (CNNs) architectures. The models are trained and evaluated on an image dataset, with a focus on comparing the performance of a simple CNN versus a more complex CNN.
 
